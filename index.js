@@ -161,5 +161,5 @@ app.delete("/delete/:id", async(req,res)=>{
     })
 //hospedar em servidor ativo
 app.listen(3333, () => {
-  console.log("Deu certo 😍");
+  console.log("Deu certo :3");
 }); //testar se a porta ta funcionando
